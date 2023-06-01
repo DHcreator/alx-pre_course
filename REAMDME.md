@@ -1,2 +1,2 @@
 
-my first readme
+the way to go
